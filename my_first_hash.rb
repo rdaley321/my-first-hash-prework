@@ -1,4 +1,4 @@
-def my_hash = {
+def my_hash {
   "name"=>"Ryan",
   "age"=>28,
   "location"=>"Houston,TX"
