@@ -1,8 +1,8 @@
-def my_hash {
-  "name"=>"Ryan",
-  "age"=>28,
-  "location"=>"Houston,TX"
-}
+def my_hash 
+  your_hash = {
+    "name"=>"Ryan",
+    "age"=>28
+  }
 end
 
 
